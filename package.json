@@ -55,6 +55,7 @@
     "@loopback/rest": "^5.1.0",
     "@loopback/rest-explorer": "^2.2.3",
     "@loopback/service-proxy": "^2.3.1",
+    "@types/bcryptjs": "^2.4.2",
     "@types/lodash": "^4.14.155",
     "bcryptjs": "^2.4.3",
     "isemail": "^3.2.0",
